@@ -1,1 +1,2 @@
-message: welcome to test in git
+welcome:
+  message: welcome to test in git
